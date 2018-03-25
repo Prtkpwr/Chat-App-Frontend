@@ -5,6 +5,7 @@ This is a template for a chat application
 
 # chat.html 
 A main page displaying all the chat messages.
+<a href="https://prtkpwr.github.io/Chat-App-Frontend/chat.html">Click</a>
 https://prtkpwr.github.io/Chat-App-Frontend/chat.html
 
 # chatUnread.html
