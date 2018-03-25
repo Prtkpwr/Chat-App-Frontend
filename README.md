@@ -1,22 +1,26 @@
 # Chat-App-Frontend
 This is a template for a chat application
 
-# Description of Pages => 
+<ul>
+  <li>Description of Pages</li>
 
-# chat.html 
+<li> chat.html </li> 
 A main page displaying all the chat messages.
-<a href="https://prtkpwr.github.io/Chat-App-Frontend/chat.html">Click</a>
-https://prtkpwr.github.io/Chat-App-Frontend/chat.html
+<a href="https://prtkpwr.github.io/Chat-App-Frontend/chat.html">Click to see the Page</a>
 
-# chatUnread.html
+<li >chatUnread.html </li>
 Another main page view which displays all the chat messages but contains some
 unread messages from some people.
-https://prtkpwr.github.io/Chat-App-Frontend/chatUnread.html
+<a href="https://prtkpwr.github.io/Chat-App-Frontend/chatUnread.html">Click to see the Page</a>
 
-# profile.html
+
+<li> profile.html </li>
 A view to change the profile picture.
-https://prtkpwr.github.io/Chat-App-Frontend/profile.html
+<a href="https://prtkpwr.github.io/Chat-App-Frontend/profile.html">Click to see the Page</a>
 
-# fullscreenChat.html
+
+<li> fullscreenChat.html </li>
 A chat view page containing messages with an individual or a group.
-https://prtkpwr.github.io/Chat-App-Frontend/fullscreenChat.html
+<a href="https://prtkpwr.github.io/Chat-App-Frontend/fullscreenChat.html">Click to see the Page</a>
+
+</ul>
